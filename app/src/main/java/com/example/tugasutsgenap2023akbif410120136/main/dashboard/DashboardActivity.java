@@ -14,7 +14,7 @@ import com.example.TugasUTSGenaP2023AKBIF410120136.R;
 import com.example.tugasutsgenap2023akbif410120136.main.catatanharian.KategoriActivity;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-//04 June 2021, 10118737, Moch Rifqi Ramdhani, IF10
+//10120136, Alif Aziz Alviansyah, IF4
 public class DashboardActivity extends AppCompatActivity {
 
     @Override
