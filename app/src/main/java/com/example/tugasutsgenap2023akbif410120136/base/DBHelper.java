@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
 
-//04 June 2021, 10118737, Moch Rifqi Ramdhani, IF10
+//10120136, Alif Aziz Alviansyah, IF4
 public class DBHelper extends SQLiteOpenHelper {
     private static final String DATABASE_NAME = "note.db";
     private static final int DATABASE_VERSION = 1;
